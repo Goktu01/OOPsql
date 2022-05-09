@@ -1,0 +1,4 @@
+C:\Users\90536\source\repos\ConsoleApp54\ConsoleApp54\bin\Debug\netcoreapp3.1\ConsoleApp54.exe
+C:\Users\90536\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp3.1\ConsoleApp54.csprojAssemblyReference.cache
+C:\Users\90536\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp3.1\ConsoleApp54.AssemblyInfoInputs.cache
+C:\Users\90536\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp3.1\ConsoleApp54.AssemblyInfo.cs
